@@ -39,6 +39,12 @@ The first is a 2D array of the posterior distribution. Your dv models are stored
 A vector containing the likelihood of each model in the posterior distribution.
 length(likelihood) = number of columns in distribution
 
+How to cite
+===========
+If you use the MCMC code, or a small part of it, please cite the following publications:
+
+Taylor, G. and Hillers, G. Under review. Estimating temporal changes in seismic velocity using a Markov Chain Monte Carlo approach. Geophys. J. Int.
+
 License
 =======
 This project is licensed under the MIT License - see the LICENSE file for details
