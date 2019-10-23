@@ -52,6 +52,13 @@ If you use the MCMC code, or a small part of it, please cite the following publi
 
 Taylor, G. and Hillers, G. Under review. Estimating temporal changes in seismic velocity using a Markov Chain Monte Carlo approach. Geophys. J. Int.
 
+You can also directly cite the code, which is archived on Zenodo:
+
+George Taylor (2019), georgetaylor3152/mcmc-dvv: First release of mcmc-dvv, , doi:10.5281/zenodo.3516603.
+
+.. image:: https://zenodo.org/badge/217005045.svg
+   :target: https://zenodo.org/badge/latestdoi/217005045
+
 License
 =======
 This project is licensed under the MIT License - see the LICENSE file for details
