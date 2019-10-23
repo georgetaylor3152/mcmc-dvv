@@ -20,8 +20,7 @@ g = A 2D numpy array, the "G"  matrix of your problem, as described by Brenguier
 
 weights = A numpy vector of data weights, equal to 1/variances of your data vector.
 
-n_corrs = An integer, the number of correlation functions you used. The dv time series
-          will have the same number of points.
+n_corrs = An integer, the number of correlation functions you used. The dv time series will have the same number of points.
 
 prior_low = A float, the lower bound of your prior expectation for the dv values
 
